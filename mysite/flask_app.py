@@ -1,4 +1,4 @@
-# copyright John Thuko
+# Created John Thuko
 from flask import Flask, render_template, request
 from sympy import *
 from numpy import *
